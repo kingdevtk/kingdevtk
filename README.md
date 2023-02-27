@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **trina.t.king@gmail.com**
 
-- 📄 Learn about my experience and checkout the website I created in AWS cloud [https://trinatking.com](https://trinatking.com)
+- 📄 Learn about my experience and checkout the website I created in AWS cloud: [https://trinatking.com](https://trinatking.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
