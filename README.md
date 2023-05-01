@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Trina King</h1>
 <h3 align="center">A devops engineer based in NYC</h3>
 
-- 🔭 I’m currently working on **Python #100DaysofCode project**
+- 🔭 I’m currently working on **100 Days of Code(python)**
 
 - 📫 How to reach me **trina.t.king@gmail.com**
 
