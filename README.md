@@ -5,13 +5,11 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Trina King</h1>
 <h3 align="center">A devops engineer based in NYC</h3>
 
-- 🔭 I’m currently working on **the 100Devs Project**
-
-- 💬 Ask me about **aws, terraform, spacelift**
+- 🔭 I’m currently working on **Python #100DaysofCode project**
 
 - 📫 How to reach me **trina.t.king@gmail.com**
 
-- 📄 Learn about my experience and checkout the resume website I created in AWS: [https://trinatking.com](https://trinatking.com)
+- 📄 Learn about me: [https://trinatking.com](https://trinatking.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
